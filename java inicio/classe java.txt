@@ -1,0 +1,51 @@
+public class Order {
+
+	// atributos e metodos
+
+}
+
+
+
+public class Order {
+
+	//atributos
+	private final String code;
+	private final BigDecimal totalValue;
+
+
+	//metodo
+	public BigDecimal calculateFee() {
+	}
+
+}
+
+
+package com.dio.base;
+
+import java.math.BigDecimal;
+
+public class Order {
+
+	private final String code;
+	private final BigDecimal totalValue;
+
+	public Order(String code, BigDecimal totalValue){
+		this.code = code;
+		this.totalValue = totalValue;
+
+	}
+	
+	public BigDecimal calculateFee(){
+		return this.totalValue.multiply(new BigDecimal("0.99));
+	}
+}
+
+
+
+
+
+
+
+
+
+

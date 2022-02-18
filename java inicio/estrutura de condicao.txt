@@ -1,0 +1,37 @@
+// imports
+
+public class Order {
+
+	// outros atributos
+	
+	private final double totalValue;
+
+	// outros metodos
+
+	public double calculateFee(){
+		if (this.totalValue > 100){
+			return this.totalValue * 0,99;
+		} else{
+			return this.totalValue;
+		}
+		
+	}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
