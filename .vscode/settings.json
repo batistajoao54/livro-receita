@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
         "variaveis operadores",
-        "metodos"
+        "metodos",
+        "controle_de_fluxo"
     ]
 }
