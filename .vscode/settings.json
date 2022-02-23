@@ -2,6 +2,7 @@
     "java.project.sourcePaths": [
         "variaveis operadores",
         "metodos",
-        "controle_de_fluxo"
+        "controle_de_fluxo",
+        "estruturaloop"
     ]
 }

@@ -1,0 +1,70 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch ControleFluxo",
+            "request": "launch",
+            "mainClass": "ControleFluxo",
+            "projectName": "livro-receitas_d315eff0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex1NomeIdade",
+            "request": "launch",
+            "mainClass": "Ex1NomeIdade",
+            "projectName": "livro-receitas_d315eff0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exemplos",
+            "request": "launch",
+            "mainClass": "Exemplos",
+            "projectName": "livro-receitas_d315eff0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "livro-receitas_d315eff0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Nome",
+            "request": "launch",
+            "mainClass": "Nome",
+            "projectName": "livro-receitas_d315eff0"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperadoresRalacionais",
+            "request": "launch",
+            "mainClass": "OperadoresRalacionais",
+            "projectName": "livro-receitas_d315eff0"
+        },
+        {
+            "type": "java",
+            "name": "Launch TiposDados",
+            "request": "launch",
+            "mainClass": "TiposDados",
+            "projectName": "livro-receitas_d315eff0"
+        },
+        {
+            "type": "java",
+            "name": "Launch VariaveisIniciais",
+            "request": "launch",
+            "mainClass": "VariaveisIniciais",
+            "projectName": "livro-receitas_d315eff0"
+        }
+    ]
+}
